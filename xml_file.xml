@@ -1,0 +1,12 @@
+<breakfast_menu>
+<food name="Belgian Waffles">
+<price>5.95</price>
+<calories>650</calories>
+<description>Light Belgian waffles covered with strawberries and whipped cream</description>
+</food>
+<food name="Strawberry Belgian Waffles">
+<price>6.95</price>
+<calories>800</calories>
+<description>Light Belgian waffles</description>
+</food>
+</breakfast_menu>
